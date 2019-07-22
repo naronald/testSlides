@@ -49,5 +49,18 @@ void convertValue() {
 
 
 ---?color=linear-gradient(to bottom, #06beb6, #48b1bf)
-more things
+@title[more things]
+
+@box[](EditText # Get input from user)
+
+
++++
+
+Activities are a key concept in Android development. EditText is a view for obtaining input.
+
+---
+@title[Finally]
+
+
+
 
