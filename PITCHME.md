@@ -31,6 +31,21 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 +++
 @title[Testing]
 
++++
+@title[Code snippet]
+
+void convertValue() {
+        EditText celsius = findViewById(R.id.etCelsius);
+        String sFahrenheit = conversion.toFahrenheit(celsius.getText().toString());
+        TextView fahrenheit = findViewById(R.id.tvFahrenheit);
+        fahrenheit.setText(sFahrenheit + " F");
+    }
+    
+@[1](method name)
+@[2](find the celsius input view)
+@[3](get the celsius value and convert to fahrenheit)
+
+
 ---?color=linear-gradient(to bottom, #06beb6, #48b1bf)
 more things
 
