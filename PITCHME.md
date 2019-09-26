@@ -44,7 +44,8 @@ Live Code Presenting with Annotations
 @snapend
 
 
-+++?code=Test.java&lang=java
++++
+---?code=Test.java&lang=java
 
 @snap[north-east span-100 text-06 text-gray]
 Live Code Presenting with Annotations (Java)
@@ -55,8 +56,6 @@ Live Code Presenting with Annotations (Java)
 @[2,3](Tweet Stream is node module that connects to the public twitter stream.)
 @[5,6](To process interesting Tweets, simply register a custom handler.)
 @snapend
-
-+++
 
 
 +++
