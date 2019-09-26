@@ -31,7 +31,7 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 +++
 @title[Testing]
 
----?code=https://github.com/naronald/SlideTest/blob/master/app/src/main/java/au/edu/swin/sdmd/slidetest/MainActivity.java#L8&lang=java
+---?code=Test.java&lang=java
 
 @snap[north-east span-100 text-06 text-gray]
 Live Code Presenting with Annotations                         
