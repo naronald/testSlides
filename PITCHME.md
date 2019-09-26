@@ -31,6 +31,18 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 +++
 @title[Testing]
 
+---?code=https://github.com/naronald/SlideTest/blob/master/app/src/main/java/au/edu/swin/sdmd/slidetest/MainActivity.java#L8&lang=java
+
+@snap[north-east span-100 text-06 text-gray]
+Live Code Presenting with Annotations                         
+@snapend
+
+@snap[south span-100]
+@[1](Socket.IO enables real-time, bidirectional, event-based communication.)
+@[2,3](Tweet Stream is node module that connects to the public twitter stream.)
+@[5-10](To process interesting Tweets, simply register a custom handler.)
+@snapend
+
 +++
 @title[Code snippet]
 
